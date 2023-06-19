@@ -1,6 +1,6 @@
-# Desafio Dell 2023-06-14
+# YETI Wallet 2023-06-14
 
-Abra o CMD, entre no diretório 'NOME_DIR';
+Abra o CMD, entre no diretório 'Solução';
 Todas as bibliotecas externas utilizadas nessa aplicação podem ser instaladas com o uso:
 ```
 pip install -r requirements.txt
